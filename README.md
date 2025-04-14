@@ -21,13 +21,7 @@
 	<img src="./images/postman.svg" width="40" height="40" alt="postman" />
 </div>
 
-## Form
-<!-- minimal -->
-[![Dong Yuanwai's github activity graph](https://activity-graph.herokuapp.com/graph?username=LChenGit&theme=minimal)](https://github.com/LChenGit)
 
-<div align="center" style="margin-top:20px">
-	<img align="center" src="./images/github-contribution-grid-snake.svg"></img>
-</div>
 
 
 
