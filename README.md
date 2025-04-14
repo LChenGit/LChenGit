@@ -6,21 +6,6 @@
 -   📫 thelechen AT GMAIL
 
 
-## 🚀 Language And Tools
-
-<div align="center" >
-	<img src="./images/html.svg" width="40" height="40" alt="html" />
-	<img src="./images/css.svg" width="40" height="40" alt="css" />
-	<img src="./images/javascript.svg" width="40" height="40" alt="javascript" />
-	<img src="./images/typescript.svg" width="40" height="40" alt="typescript" />
-	<img src="./images/vuejs.svg" width="40" height="40" alt="vue" />
-	<img src="./images/nodejs.svg" width="40" height="40" alt="node" />
-	<img src="./images/sass.svg" width="40" height="40" alt="sass" />
-	<img src="./images/webpack.svg" width="40" height="40" alt="webpack" />
-	<img src="./images/stack-overflow.svg" width="40" height="40" alt="stack-overflow" />
-	<img src="./images/postman.svg" width="40" height="40" alt="postman" />
-</div>
-
 
 
 
